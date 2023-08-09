@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working with **React**
 
 - 💬 Ask me about **Angular, JS, CSS**
 
